@@ -1,4 +1,6 @@
-git学习
+﻿git学习
 添加text
 添加button
 创建activity
+
+7.31 修改git 设置
